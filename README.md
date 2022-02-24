@@ -16,4 +16,4 @@ finally run :
 
 `python src/bot.py`
 
-More informations about telebot: https://github.com/eternnoir/pyTelegramBotAPI#reply-markup
+More informations about telebot: https://github.com/eternnoir/pyTelegramBotAPI
