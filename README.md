@@ -2,7 +2,7 @@
 
 Template to creat a telegram bot in python
 
-## HOW to RUN
+## How to Run
 
 First in main rep directory, run the following code to add src to your PYTHONPATH:
 
@@ -15,3 +15,5 @@ Second add you bot's token as below(you can get that from `@BotFather` in Telegr
 finally run :
 
 `python src/bot.py`
+
+More informations about telebot: https://github.com/eternnoir/pyTelegramBotAPI#reply-markup
