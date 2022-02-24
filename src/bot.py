@@ -30,7 +30,7 @@ class Bot:
                 self.bot.send_message(message.chat.id, message.text, reply_markup = keyboards.main)
                 print(emoji.demojize(message.text))
                 #we can monitor user whom contact to bot by sending logs to out chat(1871265971 is my temporary chat)
-                self.bot.send_message('1871265971', f"{message.from_user.username} sent message to bot.\n message : {message.text}") 
+                # self.bot.send_message('1871265971', f"{message.from_user.username} sent message to bot.\n message : {message.text}") 
 
 # TODO  :Add faal feature to the bot
 ### faal hafez api
