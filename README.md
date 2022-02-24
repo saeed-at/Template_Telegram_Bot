@@ -12,6 +12,6 @@ Second add you bot's token as below :
 
 `export anonymous_telebot_token={your token}`
 
-finaly run :
+finally run :
 
 `python src/bot.py`
